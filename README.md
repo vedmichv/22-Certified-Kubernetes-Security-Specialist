@@ -272,6 +272,9 @@ Offical exam objectives you review and understand in order to pass the test.
 1. [Learn Kubernetes security: Securely orchestrate, scale, and manage your microservices in Kubernetes deployments](https://www.amazon.com/Learn-Kubernetes-Security-orchestrate-microservices/dp/1839216506)
 1. [Let's Learn CKS Scenarios](https://gumroad.com/l/cksbook)
 
+### Practice
+1. [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/docs/) is an interactive Kubernetes security learning playground
+
 ### Youtube Videos
 
 1. [Google/Ian Lewis: Kubernetes security best practices](https://youtu.be/wqsUfvRyYpw)
@@ -304,3 +307,5 @@ Offical exam objectives you review and understand in order to pass the test.
 5. [Viktor Vedmich](https://github.com/vedmichv/CKS-Certified-Kubernetes-Security-Specialist)
 6. [Kubernetes Security Checklist and Requirements](https://github.com/Vinum-Security/kubernetes-security-checklist)
 7. [CKS Exam series](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist.git)
+
+
